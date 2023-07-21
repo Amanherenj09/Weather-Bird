@@ -1,3 +1,6 @@
+<h1>Weather-Bird</h1>
+<br>
+
 ![Capture](https://github.com/Amanherenj09/Weather-Bird/assets/106864233/c98c46b2-00d0-49fb-8207-449436c12383)
 <br>
 <br>
