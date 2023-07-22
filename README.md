@@ -21,6 +21,6 @@ Weather and air quality application.
 
 <h2>Used to make the project</h2>
 <ul>
-	<li>Bootstrap</li>
-	<li>React</li>
+	<li><a href="https://reactjs.org/">React</a></li>
+        <li><a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap</a></li>
 </ul>
